@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name: BHARATH BS </h3>
+<h3>Register Number: 212224060042 TSIT031</h3>
 
 
 <h3>AIM:</h3>
@@ -88,4 +88,5 @@ print("Final Performance Score:", agent.performance)
 ```
 
 OUTPUT
+
 <img width="670" height="831" alt="image" src="https://github.com/user-attachments/assets/a1bb4db1-6ace-47d6-905c-fb6d5bbcb854" />
